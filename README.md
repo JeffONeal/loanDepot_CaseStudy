@@ -16,6 +16,7 @@
 *     Hsieh, a longtime mortgage CEO created loanDepot.com as a online mortgage lender in 2010.  The company is the third tech/online forward mortgage lender that Hsieh has founded.  In the early 1990's he founded loandirect.com which was then purchased by ETRADE in 2001.  In 2002 Hseih founded HomeLoanCenter.com which was then acquired by Lending Tree in 2004.  He served as the CEO of Lending Tree until 2007.  
 
 * How is the company funded? How much funding have they received?
+*     loanDepot.com went through four funding rounds before their IP in February of 2021.  In their first four funding rounds they aquired a total of $181.9M.  Their first round was a private equity round in January of 2010 with Parthenon Capital Partners. The next two funding rounds were venture rounds in January of 2014 ($12.2M) and March of 2015 ($19.8M). In August of 2016 they raised $150M via a crowdlending fund.  During their IPO LDI sold at a price of $14.00/share and raised a total of $54M on February 11, 2021.  As of July 14, 2022 the stock price had dropped to $1.63.   
 
 
 ## Business Activities
